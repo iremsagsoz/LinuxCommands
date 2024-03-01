@@ -16,7 +16,9 @@
 |ifconfig|The ifconfig command is used to configure parameters of network interfaces on a Linux system|![image](https://github.com/iremsagsoz/LinuxCommands/assets/139919369/a7a717e6-ac3e-4bf2-a430-66b7e91d3c11)
 |rsync|This command is a software utility for Unix-Like systems that efficiently sync files and directories between two hosts or machines.|
 |arp|This command is a network utility tool used to display, add, and remove entries in the Address Resolution Protocol (ARP) cache.|![11](https://github.com/iremsagsoz/LinuxCommands/assets/139919369/98403e1d-2095-407b-909b-b856832bb80c)|
-|openssl|OpenSSL is a cryptography software library or toolkit that makes communication over computer networks more secure. |![image](https://github.com/iremsagsoz/LinuxCommands/assets/139919369/790bc91e-0b0a-4717-a6d4-182726833340)
-|
+|openssl|OpenSSL is a cryptography software library or toolkit that makes communication over computer networks more secure. |![image](https://github.com/iremsagsoz/LinuxCommands/assets/139919369/790bc91e-0b0a-4717-a6d4-182726833340)|
+|p0f|p0f uses a fingerprinting technique based on analyzing the structure of a TCP/IP packet to determine the operating system and other configuration properties of a remote host.|![13](https://github.com/iremsagsoz/LinuxCommands/assets/139919369/e3379b53-4c2f-4a4c-8f20-cf181bf51ba6)|
+|nc|This command is a networking utility for reading from and writing to network connections using TCP or UDP|
+
 
        
